@@ -1,5 +1,5 @@
 public class TiposVariaveis {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         double salarioMinimo = 2500;
         byte = idade 123;
         short ano = 2021;
@@ -9,6 +9,14 @@ public class TiposVariaveis {
         double salario = 1275.33;
 
         final double valor_De_pi = 3.14; // "final" é para garantir que a variavel nao pode ser mudada
+
+        int numero = 5;
         
+        numero = - numero; // Para afirmar que o valor continue negativo
+
+        numero = numero * -1; // Para trazer o numero de volta a positivo, no caso pegar a propria variavel e multiplicar por -1
+
+    
+
     }
 }

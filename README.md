@@ -1,18 +1,20 @@
-## Getting Started
+## Operadores
+ (+) Operador unário de valor positivo - números são positivos sem esse operador explicitamente;
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ (-) Operador unárop de valor negativo - pega um número ou expressão aritmética;
 
-## Folder Structure
+ (--) Operador unário de decremento de valor - decrementa o valor em 1 unidade;
 
-The workspace contains two folders by default, where:
+ (!) Operador unário lógico de negação - Nega o Valor de uma expressão booleana;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ (==) Quando desejamos verificar se é **IGUAL** A outra
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+ (!=)Quando desejamos verificar se é **DIFERENTE** A outra
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+ (>) Quando desejamos verificar se é **MAIOR QUE** A outra
 
-## Dependency Management
+ (>=) Quando desejamos verificar se é **MAIOR OU IGUAL** A outra
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+ (>) Quando desejamos verificar se é **MENOR** A 
+ 
+ (<=) Quando desejamos verificar se é **MENOR OU IGUAL** A outra
